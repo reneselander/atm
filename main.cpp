@@ -1,8 +1,9 @@
+// ATM, created by René (Richard) Selander 2021
 #include <iostream>
 
 using namespace std;
 
-    // funktion: menu
+    // function: menu
 
 void showMenu() {
 
@@ -45,9 +46,9 @@ int main()
 
     double balance = 540;
 
-    // aktivera funktionen som visar menyn
+    // activate the function that shows the menu
 
-    // starta loopen
+    // start the loop
 
     do
 
