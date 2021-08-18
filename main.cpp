@@ -44,6 +44,8 @@ int main()
 
     int option;
 
+
+    // initial balance
     double balance = 540;
 
     // activate the function that shows the menu
