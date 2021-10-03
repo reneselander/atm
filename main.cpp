@@ -1,7 +1,13 @@
 // ATM, created by René (Richard) Selander 2021
 #include <iostream>
 
-using namespace std;
+using std::cout;
+
+using std::cin;
+
+using std::endl;
+
+
 
     // function: menu
 
